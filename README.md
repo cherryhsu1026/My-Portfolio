@@ -37,12 +37,6 @@
 
 ---
 
-## 📖 系統設計文件
-- [System Architecture 文件 (PDF)](SystemArchitecture.pdf) ← 你可以把文件上傳到這個 Repo
-- [ERD 圖 (PNG)](ERD.png)  
-
----
-
 ## 🛠 技術專長
 - **後端**：C# / ASP.NET Core MVC、Dapper、SQL Server、T-SQL
 - **前端**：Bootstrap、Kendo UI
