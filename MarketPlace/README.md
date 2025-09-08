@@ -10,7 +10,7 @@
 - **成效**：實現商品交易流程自動化，整合線上付款，提升交易安全性
 
 ## 📖 部分系統設計文件
-- [System Architecture 文件 (PDF)](SystemArchitecture.pdf) ← 你可以把文件上傳到這個 Repo
-- [ERD 圖 (PNG)](ERD.png)  
-
-
+- [系統分析 文件 (PDF)](MarketPlace_SA.pdf) 
+- [首頁截圖 (jpg)](markpetlace.jpg)  
+- [供應商管理介面 (jpg)](supplier_01.jpg)
+- [第三方金流介面 (jpg)](payment01.jpg)
