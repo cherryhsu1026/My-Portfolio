@@ -37,6 +37,10 @@
 
 ---
 
+## 📂 專案進一步說明
+- [商城系統 (MarketPlace)](./MarketPlace/README.md)  
+- [區塊鏈支付系統 (DCoin)](./DCoin/README.md)  
+
 ## 🛠 技術專長
 - **後端**：C# / ASP.NET Core MVC、Dapper、SQL Server、T-SQL
 - **前端**：Bootstrap、Kendo UI
